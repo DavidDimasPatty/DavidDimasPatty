@@ -7,7 +7,7 @@ Full Stack Developer, Mobile Apps Developer, Machine Learning Engineer, and Game
 I was born in 2000 and currently reside in Bandung, Indonesia. I thrive on challenges, especially when it comes to tackling new problems. As a Backend Developer at one of Indonesia's largest retail companies, I'm passionate about building scalable and efficient solutions.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [My Portofolio](http://portofolio-david-plum.vercel.app/)
+* 🖥️  See my portfolio at [My Portofolio](http://portofolio-david-plum.vercel.app/) (wide screen only🙏)
 * ✉️  You can contact me at [daviddimas80@gmail.com](mailto:daviddimas80@gmail.com)
 * 🚀  I'm currently working on [Machine Learning for Social Media](http://github.com/DavidDimasPatty/MLSocialMedia)
 * 🧠  I'm learning Vue
