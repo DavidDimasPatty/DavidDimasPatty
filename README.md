@@ -8,7 +8,6 @@ I was born in 2000 and currently reside in Bandung, Indonesia. I thrive on chall
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [My Portofolio](http://portofolio-david-plum.vercel.app/) (wide screen only🙏)
-* ✉️  You can contact me at [daviddimas80@gmail.com](mailto:daviddimas80@gmail.com)
 
 ### Skills
 
